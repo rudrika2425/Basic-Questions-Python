@@ -1,0 +1,6 @@
+a=int(input("enter length of floor"))
+b=int(input("enter breath of floor"))
+c=int(input("enter length of tile"))
+d=int(input("enter breath of tile"))
+e=((a*b)/(c*d))
+print("Number of tiles required are:",e)
